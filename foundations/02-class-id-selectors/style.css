@@ -1,0 +1,17 @@
+.main {
+    background-color: #ef6477;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.main.cooler{
+    font-size: 24px;
+}
+
+#second { font-size: 36px;
+    color: rgb(12,12,223);
+
+}
+#fourth {font-size: 24px;
+    background-color: hsl(112, 100%, 50%);
+    font-weight: bold;
+}
